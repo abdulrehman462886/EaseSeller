@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114644931601",
+    "project_id": "easeseller-28311",
+    "storage_bucket": "easeseller-28311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114644931601:android:9a8355154138d52416cdb0",
+        "android_client_info": {
+          "package_name": "com.easeseller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhZq0fHzJD6Ae6LbWfLDqO-vtf0mD1GvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
